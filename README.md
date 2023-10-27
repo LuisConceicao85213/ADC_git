@@ -12,4 +12,4 @@ Porque:
 Este repositório serve para aprender sobre git
 
 
-[Site UALG](www.ualg.pt)
+[Site UALG](https:/www.ualg.pt)
